@@ -1,5 +1,4 @@
 header {
-  background-color: #F1F1F1;
   align-content: center;
   padding-top: 2%;
   padding-bottom: 2%;
@@ -27,9 +26,7 @@ main {
   right: 0;
   top: 0;
 }
-.desktop-nav {
-  position: fixed;
-}
+
 body {
   color: #070707;
   background-color: #c4cbca;

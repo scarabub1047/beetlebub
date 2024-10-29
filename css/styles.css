@@ -29,7 +29,6 @@ main {
 }
 .desktop-nav {
   position: fixed;
-  top: 20;
 }
 body {
   color: #070707;

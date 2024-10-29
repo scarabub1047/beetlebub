@@ -3,29 +3,14 @@ header {
   padding-top: 2%;
   padding-bottom: 2%;
   padding-left: 10%;
-  padding-right: 2%;
 }
 main {
   font-size: 20.0 em;
   padding-left: 13%;
   padding-right: 13%;
-  padding-top: 10%;
   padding-bottom: 15%;
 }
-.mobile-nav a {
-  color: #c4cbca;
-  font-family: "Josefin Sans", sans-serif;
-  text-align: center;
-  text-decoration: none;
-  padding: 3%;
-  display: block;
-}
-.mobile-nav a.menu-icon {
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
+
 .desktop-nav {
   position: fixed;
   top: 15;
